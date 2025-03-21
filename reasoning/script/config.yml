@@ -1,0 +1,27 @@
+# config.yaml
+training:
+  num_epoch: 100
+  batch_size: 32
+  learning_rate: 0.0001
+  weight_decay: 0.0001
+  early_stopping_patience: 10
+  validate_every: 1
+  num_negatives: 10
+
+model:
+  hidden_dim: 256
+  num_layers: 2
+  dropout: 0.1
+
+fine_tuning:
+  num_epoch: 50
+  learning_rate: 0.00001
+  lambda1: 0.01
+  lambda2: 0.01
+
+data_dir: "/path/to/data"
+checkpoint_dir: "/path/to/checkpoints"
+patient_data_dir: "/path/to/patient/data"
+seed: 42
+device: "cuda"
+fm_dir: "/usr/homes/cxo147/ismb/KGIA/reasoning/ckpts/"

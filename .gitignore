@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore all txt files
+*.txt
+*.pth
+*.tsv
+*.pkl
+*.pt
