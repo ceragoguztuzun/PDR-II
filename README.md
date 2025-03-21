@@ -1,4 +1,4 @@
-# PDR-II Drug Repurposing Framework
+# PDR-II Drug Repurposing Framework - _Learning to Take it Personally_
 
 This repository contains a personalized drug repurposing framework that leverages knowledge graphs and patient-specific data to recommend drugs for target diseases.
 
