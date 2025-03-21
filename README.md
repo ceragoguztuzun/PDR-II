@@ -85,6 +85,7 @@ Results are saved to the specified output directory and logged to the console or
 
 Reach out for any questions: cxo147@case.edu 
 
-## Citation
+## Publication
 
-TBD
+💊 The predecessor of this work (a.k.a. PDR I) has been published in the Journal of Biomedical Informatics (JBI):
+[Precision Drug Repurposing (PDR): Patient-level modeling and prediction combining foundational knowledge graph with biobank data](https://pubmed.ncbi.nlm.nih.gov/39952626/)
